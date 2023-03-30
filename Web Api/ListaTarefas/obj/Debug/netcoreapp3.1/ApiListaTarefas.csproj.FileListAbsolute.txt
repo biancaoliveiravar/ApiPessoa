@@ -1,0 +1,6 @@
+C:\Users\Bianca Lopes\Documents\API\Web Api\ListaTarefas\obj\Debug\netcoreapp3.1\ApiListaTarefas.csproj.AssemblyReference.cache
+C:\Users\Bianca Lopes\Documents\API\Web Api\ListaTarefas\obj\Debug\netcoreapp3.1\ApiListaTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca Lopes\Documents\API\Web Api\ListaTarefas\obj\Debug\netcoreapp3.1\ApiListaTarefas.AssemblyInfoInputs.cache
+C:\Users\Bianca Lopes\Documents\API\Web Api\ListaTarefas\obj\Debug\netcoreapp3.1\ApiListaTarefas.AssemblyInfo.cs
+C:\Users\Bianca Lopes\Documents\API\Web Api\ListaTarefas\obj\Debug\netcoreapp3.1\ApiListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Lopes\Documents\API\Web Api\ListaTarefas\obj\Debug\netcoreapp3.1\ApiListaTarefas.MvcApplicationPartsAssemblyInfo.cache

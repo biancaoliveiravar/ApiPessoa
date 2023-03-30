@@ -1,0 +1,10 @@
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\bin\Debug\netcoreapp3.1\ApiTarefas.Application.deps.json
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\bin\Debug\netcoreapp3.1\ApiTarefas.Application.dll
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\bin\Debug\netcoreapp3.1\ApiTarefas.Application.pdb
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.AssemblyInfo.cs
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.dll
+C:\Users\Bianca Lopes\Documents\API\Web Api\ApiTarefas.Application\obj\Debug\netcoreapp3.1\ApiTarefas.Application.pdb

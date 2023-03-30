@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace WebApiPessoaApplication.Autenticacao
+{
+    public class Autenticacao
+    {
+        public string Token { get; set; }
+
+        public int UsuarioId { get; set; }
+
+    }
+}
